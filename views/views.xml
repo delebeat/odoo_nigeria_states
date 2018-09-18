@@ -1,0 +1,241 @@
+<odoo>
+  <data>
+        <record model="res.country.state" id="kano">
+          <field name="name">Kano</field>
+          <field name="country_id">147</field>
+           <field name="code">KA</field>
+        </record>
+
+        <record model="res.country.state" id="abj">
+          <field name="name">Abuja</field>
+          <field name="country_id">147</field>
+           <field name="code">ABJ</field>
+        </record>
+
+      <record model="res.country.state" id="ondo">
+          <field name="name">Ondo</field>
+          <field name="country_id">147</field>
+           <field name="code">OND</field>
+        </record>
+
+        <record model="res.country.state" id="oyo">
+                  <field name="name">Oyo</field>
+                  <field name="country_id">147</field>
+                   <field name="code">OYO</field>
+                </record>
+         <record model="res.country.state" id="ogun">
+                  <field name="name">Ogun</field>
+                  <field name="country_id">147</field>
+                   <field name="code">OGN</field>
+                </record>
+       <record model="res.country.state" id="kwara">
+                  <field name="name">Kwara</field>
+                  <field name="country_id">147</field>
+                   <field name="code">kwa</field>
+                </record>
+
+       <record model="res.country.state" id="osun">
+                  <field name="name">Osun</field>
+                  <field name="country_id">147</field>
+                   <field name="code">Osn</field>
+                </record>
+
+
+      <record model="res.country.state" id="edo">
+                  <field name="name">Edo</field>
+                  <field name="country_id">147</field>
+                   <field name="code">edo</field>
+                </record>
+      <record model="res.country.state" id="kogi">
+                  <field name="name">Kogi</field>
+                  <field name="country_id">147</field>
+                   <field name="code">Kogi</field>
+                </record>
+
+       <record model="res.country.state" id="nasarawa">
+                  <field name="name">Nasarawa</field>
+                  <field name="country_id">147</field>
+                   <field name="code">nasarawa</field>
+                </record>
+        <record model="res.country.state" id="lag">
+                          <field name="name">Lagos</field>
+                          <field name="country_id">147</field>
+                           <field name="code">lagos</field>
+                        </record>
+       <record model="res.country.state" id="kaduna">
+                          <field name="name">Kaduna</field>
+                          <field name="country_id">147</field>
+                           <field name="code">kaduna</field>
+                        </record>
+            <record model="res.country.state" id="Katsina">
+                          <field name="name">Katsina</field>
+                          <field name="country_id">147</field>
+                           <field name="code">Katsina</field>
+                        </record>
+
+            <record model="res.country.state" id="Rivers">
+                          <field name="name">Rivers</field>
+                          <field name="country_id">147</field>
+                           <field name="code">Rivers</field>
+                        </record>
+             <record model="res.country.state" id="Jigawa">
+                                      <field name="name">Jigawa</field>
+                                      <field name="country_id">147</field>
+                                       <field name="code">Jigawa</field>
+                                    </record>
+       <record model="res.country.state" id="Bauchi">
+                                      <field name="name">Bauchi</field>
+                                      <field name="country_id">147</field>
+                                       <field name="code">Bauchi</field>
+                                    </record>
+
+       <record model="res.country.state" id="Benue">
+                                      <field name="name">Benue</field>
+                                      <field name="country_id">147</field>
+                                       <field name="code">Benue</field>
+                                    </record>
+
+  <record model="res.country.state" id="Borno">
+                                      <field name="name">Borno</field>
+                                      <field name="country_id">147</field>
+                                       <field name="code">Borno</field>
+                                    </record>
+<record model="res.country.state" id="Delta">
+                                      <field name="name">Delta</field>
+                                      <field name="country_id">147</field>
+                                       <field name="code">Delta</field>
+                                    </record>
+
+<record model="res.country.state" id="Rivers">
+      <field name="name">Rivers</field>
+      <field name="country_id">147</field>
+       <field name="code">Rivers</field>
+    </record>
+
+<record model="res.country.state" id="Imo">
+      <field name="name">Imo</field>
+      <field name="country_id">147</field>
+       <field name="code">Imo</field>
+    </record>
+<record model="res.country.state" id="Niger">
+      <field name="name">Niger</field>
+      <field name="country_id">147</field>
+       <field name="code">Niger</field>
+    </record>
+
+<record model="res.country.state" id="AkwaIbom">
+      <field name="name">Akwa Ibom</field>
+      <field name="country_id">147</field>
+       <field name="code">Akwa Ibom</field>
+    </record>
+
+
+<record model="res.country.state" id="Sokoto">
+      <field name="name">Sokoto</field>
+      <field name="country_id">147</field>
+       <field name="code">Sokoto</field>
+    </record>
+
+<record model="res.country.state" id="Zamfara">
+      <field name="name">Zamfara</field>
+      <field name="country_id">147</field>
+       <field name="code">Zamfara</field>
+    </record>
+
+<record model="res.country.state" id="Enugu">
+      <field name="name">Enugu</field>
+      <field name="country_id">147</field>
+       <field name="code">Enugu</field>
+    </record>
+
+<record model="res.country.state" id="Kebbi">
+      <field name="name">Kebbi</field>
+      <field name="country_id">147</field>
+       <field name="code">Kebbi</field>
+    </record>
+
+
+<record model="res.country.state" id="Plateau">
+      <field name="name">Plateau</field>
+      <field name="country_id">147</field>
+       <field name="code">Plateau</field>
+    </record>
+
+<record model="res.country.state" id="Adamawa">
+      <field name="name">Adamawa</field>
+      <field name="country_id">147</field>
+       <field name="code">Adamawa</field>
+    </record>
+
+<record model="res.country.state" id="CrossRiver">
+      <field name="name">Cross River</field>
+      <field name="country_id">147</field>
+       <field name="code">crs</field>
+    </record>
+
+<record model="res.country.state" id="Abia">
+      <field name="name">Abia</field>
+      <field name="country_id">147</field>
+       <field name="code">Abia</field>
+    </record>
+
+
+
+<record model="res.country.state" id="Ekiti">
+      <field name="name">Ekiti</field>
+      <field name="country_id">147</field>
+       <field name="code">Ekiti</field>
+    </record>
+
+<record model="res.country.state" id="Gombe">
+      <field name="name">Gombe</field>
+      <field name="country_id">147</field>
+       <field name="code">Gombe</field>
+    </record>
+
+
+<record model="res.country.state" id="yobe">
+      <field name="name">Yobe</field>
+      <field name="country_id">147</field>
+       <field name="code">Yobe</field>
+    </record>
+
+<record model="res.country.state" id="Taraba">
+      <field name="name">Taraba</field>
+      <field name="country_id">147</field>
+       <field name="code">Taraba</field>
+    </record>
+
+<record model="res.country.state" id="Nasarawa">
+      <field name="name">Nasarawa</field>
+      <field name="country_id">147</field>
+       <field name="code">Nasarawa</field>
+    </record>
+
+<record model="res.country.state" id="Bayelsa">
+      <field name="name">Bayelsa</field>
+      <field name="country_id">147</field>
+       <field name="code">Bayelsa</field>
+    </record>
+
+
+<!--<record model="res.country.state" id="Bayelsa">-->
+      <!--<field name="name">Bayelsa</field>-->
+      <!--<field name="country_id">147</field>-->
+       <!--<field name="code">Bayelsa</field>-->
+    <!--</record>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+</data>
+</odoo>
