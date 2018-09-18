@@ -10,8 +10,9 @@
        List of states in Nigeria
     """,
 
-    'author': "Del- Ideas Solutions",
-    'website': "http://www.delideas.com.ng",
+    'author': "Bamidele Ojomo",
+    'PhoneNumber:"08020661647",
+   
 
 
     'category': 'Uncategorized',
